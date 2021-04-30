@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DND",
+    "DDD"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft_extended:diamond_arrow"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft_extended:netherite_arrow",
+    "count": 8
+  }
+}

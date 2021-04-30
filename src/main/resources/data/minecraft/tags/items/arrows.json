@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft_extended:wooden_arrow",
+    "minecraft_extended:stone_arrow",
+    "minecraft_extended:iron_arrow",
+    "minecraft_extended:gold_arrow",
+    "minecraft_extended:diamond_arrow",
+    "minecraft_extended:netherite_arrow"
+  ]
+}

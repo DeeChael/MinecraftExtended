@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft_extended:item/diamond_bow",
+  "textures": {
+    "layer0": "minecraft_extended:item/diamond_bow_pulling_2"
+  }
+}
