@@ -1,5 +1,5 @@
 ##MinecraftExtended
-Made by GedStudio
-Codes: DeeChael
-Textures: GoRee
-Models: DeeChael
+Made by GedStudio</br>
+Codes: DeeChael</br>
+Textures: GoRee</br>
+Models: DeeChael</br>
